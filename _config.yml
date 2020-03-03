@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "盛佳琪"
+title                    : "Jia-Qi Sheng"
 title_separator          : "-"
-name                     : &name "盛佳琪"
-description              : &description "临床医学博士/Doctor of Clinical Medicine"
+name                     : &name "Jia-Qi Sheng"
+description              : &description "Doctor of Clinical Medicine"
 url                      : https://shengjiaqi.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjq0704/sjq0704.github.io"
