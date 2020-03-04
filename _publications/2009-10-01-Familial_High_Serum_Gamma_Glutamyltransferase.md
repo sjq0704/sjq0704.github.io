@@ -9,5 +9,3 @@ paperurl: 'https://journals.lww.com/ajg/Citation/2017/12000/Familial_High_Serum_
 citation: 'Sheng, Jia-Qi, et al. "Familial High-Serum Gamma-Glutamyltransferase Activity." <i>American Journal of Gastroenterology </i>112.12 (2017): 1898-1899.'
 ---
 
-
-Recommended citation: Sheng, Jia-Qi, et al. "Familial High-Serum Gamma-Glutamyltransferase Activity." <i>American Journal of Gastroenterology </i>112.12 (2017): 1898-1899.(1).
