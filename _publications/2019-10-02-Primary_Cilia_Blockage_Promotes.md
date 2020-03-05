@@ -2,6 +2,7 @@
 title: "Primary Cilia Blockage Promotes the Malignant Behaviors of Hepatocellular Carcinoma via Induction of Autophagy"
 collection: publications
 permalink: /publication/2010-10-01-Primary_Cilia_Blockage_Promotes
+excerpt: 'Primary Cilia Blockage Promotes the Malignant Behaviors of Hepatocellular Carcinoma via Induction of Autophagy.'
 date: 2019-10-02
 venue: 'BioMed research international'
 citation: 'Liu L, Sheng J Q, Wang M R, et al. Primary Cilia Blockage Promotes the Malignant Behaviors of Hepatocellular Carcinoma via Induction of Autophagy[J]. BioMed research international, 2019, 2019.'
